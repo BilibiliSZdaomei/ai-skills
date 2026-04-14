@@ -1,3 +1,3 @@
-# ai-skills
+# ai-skills backup
 
-Backup repository for locally generated workflow skills.
+Locally generated workflow skills.
