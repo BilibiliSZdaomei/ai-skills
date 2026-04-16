@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Project Launchpad"
+  short_description: "Place projects, init Git, and wire GitHub safely."
+  default_prompt: "Use $github-project-launchpad to place this project in the right workspace, set up Git and GitHub, and keep rollback safe."
